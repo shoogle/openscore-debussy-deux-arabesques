@@ -1,0 +1,36 @@
+title:
+  long: Deux arabesques
+  short: Deux arabesques
+subtitle: in E major and G major
+opus_number: L. 66
+wikidata_id: Q1206599
+musicbrainz_id: ede113fb-299f-4a1b-b2be-f96e44717b4d
+composer: # TODO: inherit from composer.yml or similar
+  long: Claude Debussy
+  short: Debussy
+  wikidata_id: Q4700
+  musicbrainz_id: be50643c-0377-4968-b48c-47e06b2e2a3b
+color_cover_image: False
+imslp_source:
+  - 103834
+  - 103835
+musescore_score_id: 4788704
+dedication: |-
+backers:
+  liberator:
+    name: Paul McLean
+    musescore_user_id:
+    musescore_user_name:
+  dedicator:
+    name:
+    musescore_user_id:
+    musescore_user_name:
+contributors:
+  transcriber:
+    name:
+    musescore_user_id: 161593
+    musescore_user_name: fattypikachu
+  engraver:
+    name: Peter Jonas
+    musescore_user_id: 39223
+    musescore_user_name: shoogle
